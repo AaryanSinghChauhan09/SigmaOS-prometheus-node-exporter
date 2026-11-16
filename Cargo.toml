@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-prometheus-node-exporter"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS prometheus-node-exporter component - observability"
+
+[lib]
+name = "prometheus_node_exporter"
+path = "src/lib.rs"
