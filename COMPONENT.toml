@@ -3,7 +3,7 @@ name = "SigmaOS-prometheus-node-exporter"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "prometheus-node-exporter component"
+description = "Prometheus Node Exporter"
 upstream = []
 
 [contract]
